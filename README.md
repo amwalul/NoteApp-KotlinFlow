@@ -1,7 +1,7 @@
 # Note App - Kotlin Flow
 A Simple note app with Kotlin Flow
 ## Features
-- add, delete, and edit note
+- add, delete, and edit a note
 - snackbar to undo the delete
 - displays a list of notes
 ## Libraries
