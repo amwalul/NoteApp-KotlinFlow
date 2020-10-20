@@ -3,7 +3,7 @@ A Simple note app with Kotlin Flow
 ## Features
 - add, delete, and edit a note
 - snackbar to undo the delete
-- displays a list of notes
+- display a list of notes
 ## Libraries
 * [Kotlin Coroutines (including kotlin Flow)](https://github.com/Kotlin/kotlinx.coroutines)
 * [Room Persistence Library](https://developer.android.com/topic/libraries/architecture/room)
